@@ -12,4 +12,4 @@ Passionate about learning and transforming people's lives through secure technol
 "Like an essential gear in the digital machinery, back-end development propels the journey of technology, turning challenges into opportunities, where each secure line of code is a foundation for progress, and cybersecurity is the armor that protects our achievements."
 
 <img align="center" alt="Pietro-Python" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg">
-<img align="center" alt="Pietro-SQL" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/sql/sql-original.svg">
+<img align="center" alt="Pietro-SQL" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original.svg">
