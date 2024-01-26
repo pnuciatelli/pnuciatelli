@@ -3,8 +3,7 @@
 [![Gmail Badge](https://img.shields.io/badge/pietronuciatelli%40gmail.com-GmailBadge?style=flat-square&logo=GMAIL&logoColor=%23fff&labelColor=%2318181b&color=%2318181b&link=mailto%3Apietronuciatelli%40gmail.com)](mailto:pietronuciatelli@gmail.com)
 [![Linkedin Badge](https://img.shields.io/badge/Pietro%20Nuciatelli-badge?style=flat-square&logo=linkedin&logoColor=%23fff&labelColor=%2318181b&color=%2318181b&link=https%3A%2F%2Fwww.linkedin.com%2Fin%2Fpnuciatelli%2F)](https://www.linkedin.com/in/pnuciatelli/)
 
-<img align="center" alt="Pietro-Python" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg">
-<img align="center" alt="Pietro-SQL" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original.svg">
+<img align="center" alt="Pietro-Python" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg"><img align="center" alt="Pietro-SQL" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original.svg">
 
 
 Enthusiast of cybersecurity and the best back-end development technologies.
