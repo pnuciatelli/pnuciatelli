@@ -4,7 +4,7 @@
 [![Linkedin Badge](https://img.shields.io/badge/Pietro%20Nuciatelli-badge?style=flat-square&logo=linkedin&logoColor=%23fff&labelColor=%2318181b&color=%2318181b&link=https%3A%2F%2Fwww.linkedin.com%2Fin%2Fpnuciatelli%2F)](https://www.linkedin.com/in/pnuciatelli/)
 
 
-[![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Bebas+Neue&pause=1000&color=F7F7F7&vCenter=true&random=false&width=435&lines=+%22Code+hard%2C+dream+big.%22)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Bebas+Neue&pause=1000&color=242EF7FF&vCenter=true&random=false&width=435&lines=+%22Code+hard%2C+dream+big.%22)](https://git.io/typing-svg)
 
 
 Enthusiast of cybersecurity and the best full stack development technologies.
