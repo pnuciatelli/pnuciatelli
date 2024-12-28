@@ -13,7 +13,7 @@
 
 **Meu ikigai vem do desejo de explorar, entender e criar soluções que façam diferença no mundo digital, é a união do amor a tecnologia, da busca pelo conhecimento, da vontade de ajudar e ser reconhecido por isso, vivendo uma vida de proposito e realização.**
 
-**Fora da faculadade estudo por propria hacking e pentest onde me levam a ter entendimentos sobre outros assuntos como conceitos e éticas da segurança da informação, redes de computadores, sistemas operacionais, liguagens de programação, arquitetura de software e engenharia de software (sitemap, mapeamento de requisitos, diagramas) entre outros, afinal de contas como uma pessoa poderia encontrar e dar conselhos de mitigação sobre determinada vulnerabilidade para uma equipe de programadores se não tem entendimento sobre o assunto?**
+**Fora da faculadade estudo hacking e pentest onde me levam a ter entendimentos sobre outros assuntos como conceitos e éticas da segurança da informação, redes de computadores, sistemas operacionais, liguagens de programação, arquitetura de software e engenharia de software (sitemap, mapeamento de requisitos, diagramas) entre outros, afinal de contas como uma pessoa poderia encontrar e dar conselhos de mitigação sobre determinada vulnerabilidade para uma equipe de programadores se não tem entendimento sobre o assunto?**
 
 
 [![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=15&pause=10000&color=F7F7F7&background=0000009A&vCenter=true&width=280&height=25&lines=pietro%40world%3A~%24+cat+skills.txt)](https://git.io/typing-svg)
