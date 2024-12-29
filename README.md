@@ -16,8 +16,11 @@
 **Fora da faculadade estudo hacking e pentest onde me levam a ter entendimentos sobre outros assuntos como conceitos e éticas da segurança da informação, redes de computadores, sistemas operacionais, liguagens de programação, arquitetura de software e engenharia de software (sitemap, mapeamento de requisitos, diagramas) entre outros, afinal de contas como uma pessoa poderia encontrar e dar conselhos de mitigação sobre determinada vulnerabilidade para uma equipe de programadores se não tem entendimento sobre o assunto?**
 
 ---
-
-![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=pnuciatelli&theme=codeSTACKr&show_icons=true)
+<div>
+<img height="180em" src="https://github-readme-stats.vercel.app/api?username=pnuciatelli&theme=codeSTACKr&show_icons=true">
+<img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=pnuciatelli&theme=codeSTACKr&size_weight=0.5&count_weight=0.5">
+ 
+</div>
 
 ---
 [![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=15&pause=10000&color=F7F7F7&background=0000009A&vCenter=true&width=280&height=25&lines=pietro%40world%3A~%24+cat+skills.txt)](https://git.io/typing-svg)
