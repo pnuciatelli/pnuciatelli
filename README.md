@@ -14,6 +14,7 @@
 **Meu ikigai vem do desejo de explorar, entender e criar soluções que façam diferença no mundo digital, é a união do amor a tecnologia, da busca pelo conhecimento, da vontade de ajudar e ser reconhecido por isso, vivendo uma vida de proposito e realização.**
 
 **Fora da faculadade estudo hacking e pentest onde me levam a ter entendimentos sobre outros assuntos como conceitos e éticas da segurança da informação, redes de computadores, sistemas operacionais, liguagens de programação, arquitetura de software e engenharia de software (sitemap, mapeamento de requisitos, diagramas) entre outros, afinal de contas como uma pessoa poderia encontrar e dar conselhos de mitigação sobre determinada vulnerabilidade para uma equipe de programadores se não tem entendimento sobre o assunto?**
+
 ---
 
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=pnuciatelli&theme=codeSTACKr&show_icons=true)
