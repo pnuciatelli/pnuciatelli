@@ -16,10 +16,10 @@
 **Fora da faculadade estudo hacking e pentest onde me levam a ter entendimentos sobre outros assuntos como conceitos e éticas da segurança da informação, redes de computadores, sistemas operacionais, liguagens de programação, arquitetura de software e engenharia de software (sitemap, mapeamento de requisitos, diagramas) entre outros, afinal de contas como uma pessoa poderia encontrar e dar conselhos de mitigação sobre determinada vulnerabilidade para uma equipe de programadores se não tem entendimento sobre o assunto?**
 
 ---
-<div>
-<img height="130em" src="https://github-readme-stats.vercel.app/api?username=pnuciatelli&theme=codeSTACKr&show_icons=true">
- <img height="130em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=pnuciatelli&theme=codeSTACKr&size_weight=0.5&count_weight=0.5">
- 
+
+<div align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=pnuciatelli&hide_title=false&hide_rank=true&show_icons=true&include_all_commits=true&count_private=true&disable_animations=false&theme=github_dark&locale=en&hide_border=false&order=1" height="180" alt="stats graph"  />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=pnuciatelli&locale=en&hide_title=false&layout=compact&card_width=320&langs_count=5&theme=github_dark&hide_border=true&order=2" height="180" alt="languages graph"  />
 </div>
 
 ---
@@ -56,5 +56,5 @@
 
 * Git
 
-
+<img src="https://raw.githubusercontent.com/pnuciatelli/pnuciatelli/output/snake.svg" alt="Snake animation" />
 
