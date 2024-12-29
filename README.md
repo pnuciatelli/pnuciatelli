@@ -1,6 +1,6 @@
 # 🧑🏻‍💻 Pietro Nuciatelli
 
- ### Ethical Hacking | Offensive Security
+ ### Ethical Hacking Student | Offensive Security
 
 
  [![Linkedin Badge](https://img.shields.io/badge/Pietro%20Nuciatelli-badge?style=flat-square&logo=linkedin&logoColor=%23fff&labelColor=%2318181b&color=%2318181b&link=https%3A%2F%2Fwww.linkedin.com%2Fin%2Fpnuciatelli%2F)](https://www.linkedin.com/in/pnuciatelli/)[![Gmail Badge](https://img.shields.io/badge/pietronuciatelli%40gmail.com-GmailBadge?style=flat-square&logo=GMAIL&logoColor=%23fff&labelColor=%2318181b&color=%2318181b&link=mailto%3Apietronuciatelli%40gmail.com)](mailto:pietronuciatelli@gmail.com)
