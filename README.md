@@ -3,7 +3,7 @@
  ### Ethical Hacking Student | Offensive Security
 
 
- [![Linkedin Badge](https://img.shields.io/badge/Linkedin%20-badge?style=flat-square&logo=linkedin&logoColor=%23fff&labelColor=%2318181b&color=%2318181b&link=https%3A%2F%2Fwww.linkedin.com%2Fin%2Fpnuciatelli%2F)](https://www.linkedin.com/in/pnuciatelli/) [![Gmail Badge](https://img.shields.io/badge/pietronuciatelli%40gmail.com-GmailBadge?style=flat-square&logo=GMAIL&logoColor=%23fff&labelColor=%2318181b&color=%2318181b&link=mailto%3Apietronuciatelli%40gmail.com)](mailto:pietronuciatelli@gmail.com)
+ [![Linkedin](https://img.shields.io/badge/Linkedin%20-badge?style=flat-square&logo=linkedin&logoColor=%23fff&labelColor=%2318181b&color=%2318181b&link=https%3A%2F%2Fwww.linkedin.com%2Fin%2Fpnuciatelli%2F)](https://www.linkedin.com/in/pnuciatelli/) [![Gmail Badge](https://img.shields.io/badge/pietronuciatelli%40gmail.com-GmailBadge?style=flat-square&logo=GMAIL&logoColor=%23fff&labelColor=%2318181b&color=%2318181b&link=mailto%3Apietronuciatelli%40gmail.com)](mailto:pietronuciatelli@gmail.com)
 
 [![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=15&pause=10000&color=F7F7F7&background=0000009A&vCenter=true&width=200&height=25&lines=pietro%40world%3A~%24+whoami)](https://git.io/typing-svg)
 
