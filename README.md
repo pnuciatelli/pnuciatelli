@@ -56,5 +56,4 @@
 
 * Git
 
-<img src="https://raw.githubusercontent.com/pnuciatelli/pnuciatelli/output/snake.svg" alt="Snake animation" />
 
