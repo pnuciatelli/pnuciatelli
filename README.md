@@ -24,35 +24,34 @@
 
 ---
 [![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=15&pause=10000&color=F7F7F7&background=0000009A&vCenter=true&width=280&height=25&lines=pietro%40world%3A~%24+cat+skills.txt)](https://git.io/typing-svg)
-#### Linguagens: 
+#### Back-End: 
 
-* Python - Avançado - POO, polimorfismo, modularização e manipulação de arquivos
+* Java 
 
-* SQL - Intermediário
-
-* JavaScript - intermediário
-
-* Java - base
+* SQL
 
 
-##### Linguagem de marcação:
+##### Web:
 
-* HTML - intermediário
+* HTML
 
-* CSS - intermediário
+* CSS
+  
+* JavaScript
 
 
-##### Linguagem UML:
+##### DevOps:
 
-* Diagrama de Casos de Uso - base
+* Docker
 
-* Diagrama de Classe - intermediario
 
 #### Tools:
 
 * Visual Studio Code
 
 * Pycharm
+  
+* IntelliJ
 
 * Git
 
